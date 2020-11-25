@@ -72,10 +72,6 @@ body {
     overflow: hidden;
 }
 
-.foto-perfil img {
-    height: 6rem;
-}
-
 .login {
     background-color: rgba(248, 15, 15, 0.712);
     color: white;
